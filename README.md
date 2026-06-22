@@ -13,6 +13,29 @@ ScribeMind is an advanced, high-fidelity online education ecosystem built to bri
 - **Frontend Core:** React + Vite
 - **Styling Architecture:** Tailwind CSS
 - **Design System:** Primitive-based Custom Layout Components
+## 🚀 Problem Statement
+
+Students spend hours reading lengthy PDFs and often struggle to revise effectively.
+
+SCRIBEMIND solves this problem by turning uploaded study materials into:
+
+- 📑 Smart Notes
+- 🧠 Flashcards
+- ❓ Quizzes
+- ⚡ Faster Revision
+
+---
+
+## ✨ Features
+
+- 📂 Upload PDFs
+- 📝 Generate concise notes
+- 🧠 Create flashcards automatically
+- ❓ AI-generated quizzes
+- 📱 Responsive design
+- ⚡ Fast and simple interface
+
+---
 
 ## 📸 Screenshots
 
@@ -50,5 +73,6 @@ ScribeMind is an advanced, high-fidelity online education ecosystem built to bri
 
 Click the video player below to watch the live application walkthrough:
 
+## DEMO VIDEO
 
 https://github.com/user-attachments/assets/0dec3a39-4193-43d8-981c-195baf4b35e6
