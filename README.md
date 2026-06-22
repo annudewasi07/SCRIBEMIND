@@ -1,5 +1,5 @@
 
-  # 🎓 ScribeMind Learning Platform
+  # 🎓 ScribeMind Learning Platform-3D website
 
 ScribeMind is an advanced, high-fidelity online education ecosystem built to bridge the gap between complex digital curriculum and engagement-first student workflows.
 
@@ -14,4 +14,35 @@ ScribeMind is an advanced, high-fidelity online education ecosystem built to bri
 - **Styling Architecture:** Tailwind CSS
 - **Design System:** Primitive-based Custom Layout Components
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./src/Screenshots/a.png)
+
+---
+
+### 📚 Study Hub
+![Study Hub](./src/Screenshots/b.png)
+
+---
+
+### 📊 Dashboard
+![Dashboard](./src/Screenshots/c.png)
+
+---
+
+### 🧠 Explain Studio
+![Explain Studio](./src/Screenshots/d.png)
+
+---
+
+### ❓ Quiz Arena
+![Quiz Arena](./src/Screenshots/e.png)
+
+---
+
+### 📈 Learning Journey
+![Learning Journey](./src/Screenshots/f.png)
+
+---
   
