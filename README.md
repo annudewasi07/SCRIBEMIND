@@ -44,5 +44,11 @@ ScribeMind is an advanced, high-fidelity online education ecosystem built to bri
 ### 📈 Learning Journey
 ![Learning Journey](./src/Screenshots/f.png)
 
+
 ---
-  
+  ## 🎥 Project Demo Video
+
+Click the video player below to watch the live application walkthrough:
+
+
+https://github.com/user-attachments/assets/0dec3a39-4193-43d8-981c-195baf4b35e6
